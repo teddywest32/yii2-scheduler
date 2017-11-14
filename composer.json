@@ -1,5 +1,5 @@
 {
-  "name": "omnilight/yii2-scheduling",
+  "name": "teddywest32/yii2-scheduler",
   "description": "Scheduling extension for Yii2 framework",
   "keywords": [
     "yii",
@@ -11,6 +11,10 @@
     {
       "name": "Pavel Agalecky",
       "email": "pavel.agalecky@gmail.com"
+    },
+    {
+      "name": "Pralhad Shrestha",
+      "email": "pralhad.shrestha05@gmail.com"
     }
   ],
   "type": "yii2-extension",
